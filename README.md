@@ -1,14 +1,30 @@
-## Hi there 👋
+# 👋 Halo, saya Yoga Pangestu!
 
-**yogapangestu777/yogapangestu777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah ultraman yang bersemangat dalam web development. Saya suka menjelajahi teknologi baru dan menciptakan solusi yang inovatif.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
+- 🌱 Saat ini saya belajar tentang **NextJs,Flutter**.
+- 💼 Saya memiliki pengalaman dalam **web development**, terutama dalam **[spesialisasi]**.
+- 📫 Anda dapat menghubungi saya di ypangestu976.
+- ⚡ Ketika saya tidak mengoding, saya suka **menyelamatkan bumi dari alien**.
+<!--
+## 🔧 Teknologi dan Alat
+Saya bekerja dengan:
+- **Bahasa Pemrograman**: [PHP, Javascript]
+- **Frameworks**: [Laravel, NextJs]
+- **Database**: [MySQL, MongoDB, dll.]
+- **Tools**: [Git, Docker, VS Code, dll.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌟 Proyek Terbaru
+- **[Nama Proyek 1]**: Deskripsi singkat tentang proyek ini. [Tautan ke proyek](https://github.com/username/repo1)
+- **[Nama Proyek 2]**: Deskripsi singkat tentang proyek ini. [Tautan ke proyek](https://github.com/username/repo2)
+-->
+
+## 📈 Statistik GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=yogapangestu777&show_icons=true&theme=radical)
+
+## 🌐 Kunjungi Saya di
+- [GitHub](https://github.com/yogapangestu777)
+- [Instagram](https://www.instagram.com/ygapngst.u/)
+
+Terima kasih telah mengunjungi profil saya! 🎉
