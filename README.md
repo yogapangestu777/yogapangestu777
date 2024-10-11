@@ -4,9 +4,10 @@ Saya adalah ultraman yang bersemangat dalam web development. Saya suka menjelaja
 
 ## 🚀 Tentang Saya
 - 🌱 Saat ini saya belajar tentang **NextJs,Flutter**.
-- 💼 Saya memiliki pengalaman dalam **web development**, terutama dalam **[spesialisasi]**.
+- 💼 Saya memiliki pengalaman dalam **web development**, terutama dalam **Full-Stack Development**.
 - 📫 Anda dapat menghubungi saya di ypangestu976.
 - ⚡ Ketika saya tidak mengoding, saya suka **menyelamatkan bumi dari alien**.
+  
 <!--
 ## 🔧 Teknologi dan Alat
 Saya bekerja dengan:
