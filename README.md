@@ -22,9 +22,6 @@ Saya bekerja dengan:
 - **[Nama Proyek 2]**: Deskripsi singkat tentang proyek ini. [Tautan ke proyek](https://github.com/username/repo2)
 -->
 
-## 📈 Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=yogapangestu777&show_icons=true&theme=radical)
-
 ## 🌐 Kunjungi Saya di
 - [GitHub](https://github.com/yogapangestu777)
 - [Instagram](https://www.instagram.com/ygapngst.u/)
